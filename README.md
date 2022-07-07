@@ -10,7 +10,7 @@
  
  ### Summary Data Frame:
  
- ![summary-data](https://github.com/TahaniSury/PyBer_Analysis/blob/main/images/total_fare.png)
+ ![summary-data](https://github.com/TahaniSury/PyBer_Analysis/blob/main/images/summary-data.png)
  
  
  * The Urban city type had more total drivers than total rides
