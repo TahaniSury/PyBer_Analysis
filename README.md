@@ -21,7 +21,7 @@
 
 ### Total Fare by City Type:
 
-![total_fare](https://github.com/TahaniSury/PyBer_Analysis/blob/main/images/summary-data.png)
+![total_fare](https://github.com/TahaniSury/PyBer_Analysis/blob/main/images/total_fare.png)
 
 * All three city types start to rise to a peak at the end for February. 
 * the Urban city type, that oscillating peak lasts through April, 
